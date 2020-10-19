@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMasterPage.master.cs" Inherits="WebApplication1.Admin.AdminMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table width="100%">
+              <tr>
+                  <td height="100px" width="100%">Header
+                      <asp:Menu runat="server" ID="mAdmin" DynamicVerticalOffset="1" Font-Names="Cambia">
+                          <Items>
+                              <asp:MenuItem NavigateUrl="~/Admin/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                              <asp:MenuItem NavigateUrl="~/Admin/Trainer.aspx" Text="Trainer" Value="Trainer"></asp:MenuItem>
+                              <asp:MenuItem NavigateUrl="~/Admin/WorkShop.aspx" Text="WorkShop" Value="WorkShop "></asp:MenuItem>
+                              <asp:MenuItem NavigateUrl="~/Admin/Sudent.aspx" Text="Student" Value="Student"></asp:MenuItem>
+                              <asp:MenuItem NavigateUrl="~/Admin/Approval.aspx" Text="Approval" Value="Approval"></asp:MenuItem>
+                              <asp:MenuItem NavigateUrl="~/Admin/Material.aspx" Text="Material" Value="Material"></asp:MenuItem>
+
+                          </Items>
+                          <StaticHoverStyle BackColor="Blue" ForeColor="White" />
+                          <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px"
+                              />
+                          <StaticSelectedStyle BackColor="White" />
+                      </asp:Menu>
+
+                  </td>
+              </tr>
+                <tr>
+                    <td height="300px" width="100%">
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+                    </td>
+
+                </tr>
+                <tr>
+                    <td height="50px" width="100%">Footer
+
+                    </td>
+
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>

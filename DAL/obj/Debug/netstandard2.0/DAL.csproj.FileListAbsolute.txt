@@ -1,0 +1,12 @@
+C:\Preethi\Work\Projects\BOL\DAL\bin\Debug\netstandard2.0\BOL.dll
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Preethi\Work\Projects\BOL\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Preethi\Work\Projects\BOL\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Preethi\Work\Projects\BOL\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Preethi\Work\Projects\BOL\DAL\bin\Debug\netstandard2.0\BOL.pdb
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Preethi\Work\Projects\BOL\DAL\obj\Debug\netstandard2.0\DAL.pdb

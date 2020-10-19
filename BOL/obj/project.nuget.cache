@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sebuJ/AwUm1s72nZLN0ilsHCvy+NdX3kSF1dAh+0gIIqOhBIBY1l2amgF/mBB8xwYLwk/Ay3NhxsLvj7qlUNMg==",
+  "success": true,
+  "projectFilePath": "C:\\Preethi\\Work\\Projects\\BOL\\BOL\\BOL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
